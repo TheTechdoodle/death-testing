@@ -1,0 +1,6 @@
+name: DeathTesting
+version: ${project.version}
+api-version: 1.15
+main: com.darkender.plugins.deathtesting.DeathTesting
+author: Techdoodle
+description: A plugin to play around with death events
